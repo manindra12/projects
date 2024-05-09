@@ -1,1 +1,3 @@
 content in file1
+
+some other info in file1
